@@ -1,4 +1,3 @@
-@@ -0,0 +1,66 @@
 /** 
 * noback v0.0.1
 * library for prevent backbutton
